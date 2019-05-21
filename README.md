@@ -1,8 +1,7 @@
 # snake-game
 ------------------------------------------------------------------------------------------------
-AUTHOR:
-    Dongyao Liang
-    Heng Tan
+AUTHOR: 
+    Dongyao Liang and Heng Tan
 ------------------------------------------------------------------------------------------------
 
 A snake game in x86 32bit assembly, using irvine library
